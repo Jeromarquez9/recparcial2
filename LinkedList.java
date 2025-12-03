@@ -22,7 +22,7 @@ public class LinkedList {
         }
         size++;
     }
-0
+
     public Object get(int index) {
         if (index < 0 || index >= size) return null;
 
